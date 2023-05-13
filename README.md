@@ -43,4 +43,7 @@ Again, do not spam it.
 ## Multiplayer
 This datapack is multiplayer-friendly (At least I hope with the way I tested), you can have
 
+## Side Note
+I can not garantuee it is gonna be problem-free. However any damages caused by my datapack I will not be responsible for, unless I did not mention any warnings about that situation in this file. Otherwise, if you did something that was advised against, I will not be taking responsibility.
+
 # Enjoy the datapack.
