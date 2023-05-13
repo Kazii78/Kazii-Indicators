@@ -11,12 +11,12 @@ strictly advising against low-end PCs.
 It handles fairly well with a mid-range to high-range PC, lower-end ones would start form a slower gameplay.
 
 ## Quick Overview
-- This datapack can hold up to 4096 name labels.
+- This datapack can hold up to 2034 name labels. (aka. Maximum Storage Array Limit)
 - Has health indicators
 - Has block data indicators
 - Has damage & heal indicators
 - Has short kill amount indicators for the players
-- Variable name labels (Both by a name tag and when spawned in with a name.)
+- Variable name labels (Both by a name tag and when spawned in with a name.
 
 ## Intended-Use
 This datapack is intended for mainly-survival, especially with new worlds.
