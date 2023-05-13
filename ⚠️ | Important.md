@@ -1,7 +1,7 @@
 # Kâzii's Indicators
 
 ## Quick Pre-caution
-This datapack is mostly automated by itself, but there are pre-cautions that need to be taken:
+This datapack is mostly automated by itself, but there is a pre-caution that needs to be taken:
 Make sure coordinates from 0 255 0 to 1 256 0 are cleared with no obstructions.
 
 ## Performance Rating
