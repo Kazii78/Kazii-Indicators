@@ -4,7 +4,7 @@
 This datapack is mostly automated by itself, but there is a pre-caution that needs to be taken:
 Make sure coordinates from 0 255 0 to 1 256 0 are cleared with no obstructions.
 
-## Performance Rating
+## 💻 Performance Rating
 Recommended for mid-range to high-range PCs,
 strictly advising against low-end PCs.
 
