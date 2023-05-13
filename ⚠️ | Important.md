@@ -1,4 +1,4 @@
-❤️ # Kâzii's Indicators 🛠️
+# ❤️ Kâzii's Indicators 🛠️
 
 ## Quick Pre-caution
 This datapack is mostly automated by itself, but there is a pre-caution that needs to be taken:
