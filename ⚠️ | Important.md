@@ -20,10 +20,11 @@ It handles fairly well with a mid-range to high-range PC, lower-end ones would s
 
 ## Intended use
 This datapack is intended for mainly-survival, especially with new worlds.
-Already existing worlds should not be affected by it as much.
+Already existing worlds should not be affected by it as much with how it was built.
 
 ### **Strongly advise against installing this datapack into a minigame or map in any type.**
-It can lead to many incompatibility issues.
+It can lead to many incompatibility issues:
+especially loss of names, not intended name changes, overall can cause lag with many other systems in the minigame / map.
 
 ## Warnings
 When installed and implemented, the game will slow down for rougly 5 to 10 seconds to store all currently existing name labels. (Cannot garantuee full name saves.)
