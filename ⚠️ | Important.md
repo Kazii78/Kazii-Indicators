@@ -1,6 +1,6 @@
 # ❤️ Kâzii's Indicators 🛠️
 
-## Quick Pre-caution
+## Quick Pre-Caution
 This datapack is mostly automated by itself, but there is a pre-caution that needs to be taken:
 Make sure coordinates from 0 255 0 to 1 256 0 are cleared with no obstructions.
 
@@ -18,7 +18,7 @@ It handles fairly well with a mid-range to high-range PC, lower-end ones would s
 - Has short kill amount indicators for the players
 - Variable name labels (Both by a name tag and when spawned in with a name.)
 
-## Intended use
+## Intended-Use
 This datapack is intended for mainly-survival, especially with new worlds.
 Already existing worlds should not be affected by it as much with how it was built.
 
