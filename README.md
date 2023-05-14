@@ -1,5 +1,7 @@
 ![Kziis-Indicators (1)](https://github.com/Kwarma/Kazii-Indicators/assets/109925073/011d2ed0-c5bd-4dbd-bb16-641c2dba8ed7)
 
+# 🧩 Version [0.1]
+
 ## ⚠️ Quick Pre-Cautions
 This datapack is mostly automated by itself, but there is a pre-cautions that needs to be taken:
 Make sure coordinates from 0 255 0 to 1 256 0 are cleared with no obstructions.
