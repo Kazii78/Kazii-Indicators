@@ -31,7 +31,7 @@ mid-end and low-end servers may have trouble running this depending on the amoun
 This datapack is intended for mainly-survival, especially with new worlds.
 Already existing worlds should not be affected by it as much with how it was built.
 
-### Strongly advise against installing this datapack into a minigame or map in any type.
+### Strongly advise against installing this datapack into a minigame or map of any type.
 It can lead to many incompatibility issues:
 especially loss of names, not intended name changes and overall can cause lag with many other systems in the minigame / map.
 
