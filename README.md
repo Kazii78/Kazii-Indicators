@@ -1,6 +1,9 @@
 ![Kziis-Indicators (1)](https://github.com/Kwarma/Kazii-Indicators/assets/109925073/011d2ed0-c5bd-4dbd-bb16-641c2dba8ed7)
 
-# 🧩 Version [0.1]
+# 🧩 Versions
+
+Current datapack version: [0.1]
+Compatible minecraft version: 1.20+
 
 ## ⚠️ Quick Pre-Cautions
 This datapack is mostly automated by itself, but there is a pre-cautions that needs to be taken:
