@@ -3,6 +3,7 @@
 ## ⚠️ Quick Pre-Caution
 This datapack is mostly automated by itself, but there is a pre-caution that needs to be taken:
 Make sure coordinates from 0 255 0 to 1 256 0 are cleared with no obstructions.
+It must be cleared out for the datapack to place blocks for operating.
 
 ## 💻 Performance Rating
 Recommended for mid-end to high-end PCs,
