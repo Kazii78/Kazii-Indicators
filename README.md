@@ -1,4 +1,4 @@
-![Kziis-Indicators](https://github.com/Kazii78/Kazii-Indicators/assets/109925073/011d2ed0-c5bd-4dbd-bb16-641c2dba8ed7)
+![Kziis-Indicators](https://github.com/Kazii78/Kazii-Indicators/assets/109925073/95725eb9-a031-4508-bed9-be32ff3f0d15)
 
 # 🧩 Versions
 Current datapack version: [0.1]
