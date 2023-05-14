@@ -54,8 +54,10 @@ Not confirmed to be multiplayer-friendly,
 testing will take place once the full release for 1.20 comes out.
 Advise against adding it to servers.
 
-## 🗒️ Side Note
+## 🗒️ Side Notes
 Since this is the very first release of this datapack it may be buggy,
 future updates will improve.
+
+Graphics title was generated using https://textcraft.net.
 
 # 💫 Enjoy the datapack.
