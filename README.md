@@ -1,4 +1,4 @@
-# ❤️ Kâzii's Indicators
+![Kziis-Indicators (1)](https://github.com/Kwarma/Kazii-Indicators/assets/109925073/011d2ed0-c5bd-4dbd-bb16-641c2dba8ed7)
 
 ## ⚠️ Quick Pre-Caution
 This datapack is mostly automated by itself, but there is a pre-caution that needs to be taken:
@@ -43,6 +43,8 @@ this will clear out the entire storage array, get rid of all names (they will no
 Do not spam this command.
 
 ## 👥 Multiplayer
-This datapack is multiplayer-friendly (at least I hope with the way I tested it), you may add it to a multiplayer server.
+Not confirmed to be multiplayer-friendly,
+testing will take place once the full release for 1.20 comes out.
+Advise against adding it to servers.
 
 # 💫 Enjoy the datapack.
