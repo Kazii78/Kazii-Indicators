@@ -32,8 +32,7 @@ especially loss of names, not intended name changes and overall can cause lag wi
 When installed and implemented, the game will slow down for rougly 5 to 10 seconds to store all currently existing name labels. (cannot garantuee full name saves)
 For larger worlds, the game would maybe slow down for over 15 seconds, it all comes down to how many entities have a name assigned in your current world.
 
-When you decide to remove the datapack, please run `/trigger uninstall_kz-indicators`,
-give it a few seconds and it should be done uninstalling, you can afterwards remove it from the files if `/reload` hasn't been ran.
+When you decide to remove the datapack, please run `/trigger uninstall_kz-indicators`, it should remove all scoreboards, entities summoned (by the datapack), storage arrays and revert all names to a Vanilla State, a message should pop up in the chat when it is done, you can afterwards remove it from the files if `/reload` hasn't been ran.
 
 ### Do not spam `/reload` and `/trigger uninstall_kz-indicators`
 Spamming these commands can cause many disruptions mid-operating and potentially lose names, etc..
