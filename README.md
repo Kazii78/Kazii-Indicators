@@ -5,10 +5,11 @@ This datapack is mostly automated by itself, but there is a pre-caution that nee
 Make sure coordinates from 0 255 0 to 1 256 0 are cleared with no obstructions.
 
 ## 💻 Performance Rating
-Recommended for mid-range to high-range PCs,
-strictly advising against low-end PCs.
+Recommended for mid-end to high-end PCs,
+strictly advising against low-end PCs, it handles fairly well with a mid-end to high-end PC, lower-end ones would start to form a slower gameplay.
 
-It handles fairly well with a mid-range to high-range PC, lower-end ones would start form a slower gameplay.
+Recommended for high-end servers.
+mid-end and low-end servers may have trouble running this depending on the amount of players.
 
 ## 📜 Quick Overview
 - This datapack can hold up to 2034 name labels. (aka. Maximum Storage Array Limit)
@@ -33,17 +34,14 @@ For larger worlds, the game would maybe slow down for over 15 seconds, it all co
 When you decide to remove the datapack, please run `/trigger uninstall_kz-indicators`,
 give it a few seconds and it should be done uninstalling, you can afterwards remove it from the files if `/reload` hasn't been ran.
 
-### **Do not spam `/reload` and `/trigger uninstall_kz-indicators`**
-This datapack is very vulnerable during these times.
+### Do not spam `/reload` and `/trigger uninstall_kz-indicators`
+Spamming these commands can cause many disruptions mid-operating and potentially lose names, etc..
 
 ## 🏷️ Name Slots
 If you decide to get rid of your name slots, then run `/trigger reset_names_kz-indicators`.
 Again, do not spam it.
 
 ## 👥 Multiplayer
-This datapack is multiplayer-friendly (At least I hope with the way I tested), you can have
-
-## 🗒️ Side Note
-I can not garantuee it is gonna be problem-free. However any damages caused by my datapack I will not be responsible for, unless I did not mention any warnings about that situation in this file. Otherwise, if you did something that was advised against, I will not be taking responsibility.
+This datapack is multiplayer-friendly (At least I hope with the way I tested), you may add it to a multiplayer server.
 
 # 💫 Enjoy the datapack.
