@@ -25,7 +25,7 @@ Already existing worlds should not be affected by it as much with how it was bui
 
 ### Strongly advise against installing this datapack into a minigame or map in any type.
 It can lead to many incompatibility issues:
-especially loss of names, not intended name changes, overall can cause lag with many other systems in the minigame / map.
+especially loss of names, not intended name changes and overall can cause lag with many other systems in the minigame / map.
 
 ## ⚠️ Warnings
 When installed and implemented, the game will slow down for rougly 5 to 10 seconds to store all currently existing name labels. (cannot garantuee full name saves)
