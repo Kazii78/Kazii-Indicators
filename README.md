@@ -34,7 +34,7 @@ For larger worlds, the game would maybe slow down for over 15 seconds, it all co
 When you decide to remove the datapack, please run `/trigger uninstall_kz-indicators`,
 give it a few seconds and it should be done uninstalling, you can afterwards remove it from the files if `/reload` hasn't been ran.
 
-### Do not spam `/reload` and `/trigger uninstall_kz-indicators`
+Do not spam `/reload` and `/trigger uninstall_kz-indicators`
 Spamming these commands can cause many disruptions mid-operating and potentially lose names, etc..
 
 ## 🏷️ Name Slots
